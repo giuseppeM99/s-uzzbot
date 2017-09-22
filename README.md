@@ -7,7 +7,7 @@ A Telegram Bot based on plugins using [tg](https://github.com/Rondoozle/tg). For
 ------------
 ```bash
 # Tested on Debian 7, for other OSes check out https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
+sudo apt-get install php7.0 php7.0-common php7.0-dev php7.0-cli php7.0-gmp php7.0-json php7.0-mcrypt php7.0-mbstring php7.0-readline php7.0-xml php7.0-bcmath php7.0-curl libconfig-dev libssl-dev libevent-dev make unzip git redis-server g++ expat libexpat1-dev
 ```
 
 ```bash
